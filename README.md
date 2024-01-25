@@ -2,7 +2,7 @@
 
  1. After create a Virtual Machine, Browse to https://whatismyipaddress.com/ and take note of this in a text file
 
- 2. Create a Resource Group
+ 2. Create a Resource Group (
     
  3. Create a Windows 10 Virtual Machine in another geographic location (try a different country)
 
