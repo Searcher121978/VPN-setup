@@ -1,6 +1,6 @@
 #  VPN setup in Proton VPN (Video below)
 
- 1. After create a Virtual Machine, Browse to https://whatismyipaddress.com/ and take note of this in a text file
+ 1. After create a Virtual Machine (Resource Group and Virtual Machine creation), Browse to https://whatismyipaddress.com/ and take note of this in a text file
 
  2. Create a Resource Group (refer to Resource Group and Virtual Machine creation section)
     
